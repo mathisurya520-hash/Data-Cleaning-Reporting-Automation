@@ -1,0 +1,17 @@
+Customer_ID,Customer_Name,City,Category,Sales
+101,John,New York,Electronics,2500
+102,Alice,Chicago,Furniture,1800
+103,Bob,,Electronics,3200
+104,David,Miami,Clothing,900
+105,Emma,Chicago,Furniture,1800
+105,Emma,Chicago,Furniture,1800
+106,Chris,New York,,1500
+107,Sophia,Los Angeles,Electronics,
+108,James,Miami,Clothing,1200
+109,Olivia,Chicago,Furniture,2200
+110,William,New York,Electronics,2800
+111,Ava,,Clothing,1000
+112,Mason,Los Angeles,Furniture,1900
+113,Isabella,Chicago,,2100
+114,Ethan,Miami,Electronics,3500
+115,Mia,New York,Clothing,800
